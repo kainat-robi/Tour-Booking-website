@@ -1,0 +1,13 @@
+.about__heading{
+    color: var(--heading-color);
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 100px;
+}
+.about__text{
+    color: var(--text-color);
+    margin-top: 103px;
+    width: 93%;
+    margin-left: 120px ;
+}
